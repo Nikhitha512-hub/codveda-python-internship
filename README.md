@@ -14,7 +14,7 @@ This repository contains Python projects completed during my internship practice
 
 ## Level 3 Projects
 - File Encryption and Decryption
-- Password Generator
+- N-Queens problem
 
 ## Technologies Used
 - Python
@@ -22,7 +22,7 @@ This repository contains Python projects completed during my internship practice
 - APIs
 - File Handling
 - Encryption
-- Random Module
+- Backtracking basics
 
 ## About Me
 I am learning Python and Full Stack Development while rebuilding my coding skills after a career gap. These projects helped me improve my programming fundamentals and practical problem-solving skills.
